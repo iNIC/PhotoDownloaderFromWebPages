@@ -1,0 +1,12 @@
+D:\PhotoDownloader\PhotoDownloader\bin\x86\Release\PhotoDownloader.exe.config
+D:\PhotoDownloader\PhotoDownloader\bin\x86\Release\PhotoDownloader.exe
+D:\PhotoDownloader\PhotoDownloader\bin\x86\Release\PhotoDownloader.pdb
+D:\PhotoDownloader\PhotoDownloader\bin\x86\Release\HtmlAgilityPack.dll
+D:\PhotoDownloader\PhotoDownloader\bin\x86\Release\HtmlAgilityPack.pdb
+D:\PhotoDownloader\PhotoDownloader\bin\x86\Release\HtmlAgilityPack.xml
+D:\PhotoDownloader\PhotoDownloader\obj\x86\Release\PhotoDownloader.csprojResolveAssemblyReference.cache
+D:\PhotoDownloader\PhotoDownloader\obj\x86\Release\PhotoDownloader.MainForm.resources
+D:\PhotoDownloader\PhotoDownloader\obj\x86\Release\PhotoDownloader.Properties.Resources.resources
+D:\PhotoDownloader\PhotoDownloader\obj\x86\Release\PhotoDownloader.csproj.GenerateResource.Cache
+D:\PhotoDownloader\PhotoDownloader\obj\x86\Release\PhotoDownloader.exe
+D:\PhotoDownloader\PhotoDownloader\obj\x86\Release\PhotoDownloader.pdb
