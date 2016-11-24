@@ -1,4 +1,4 @@
-# PhotoDownloaderFromWebPages
+# PhotoDownloaderFromWebPages - TEST version
 
 > This program help to save image from web pages
 
